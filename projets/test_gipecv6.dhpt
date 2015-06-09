@@ -1,0 +1,16 @@
+xwin-projet        1.0
+[general]
+nom="test_gipecv6"
+progexec="divalto.dhop"
+date="20150601152116093799"
+util="ROOT"
+[profildefaut]
+[profil]
+nom="git"
+repobjet="/specifs/test_gipecv6/objets"
+implicites="test_gipecv6.txt"
+[sousprojets]
+fic="git.dhps"," "
+[projetsfusion]
+[fabricationmere]
+[autres]

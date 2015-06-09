@@ -1,0 +1,10 @@
+xwin-sprojet       1.0
+[general]
+date="20150601152116100799"
+util="ROOT"
+[communs]
+[fichiers]
+fic="gtuz000.dhsp"," "
+[includes]
+fic="zdiva.dhsp"
+[autres]
